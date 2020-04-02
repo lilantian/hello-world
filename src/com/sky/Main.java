@@ -7,5 +7,7 @@ public class Main {
         System.out.println("456");
         System.out.println("789");
         System.out.println("abc");
+        System.out.println();
+        System.out.println("csv");
     }
 }
